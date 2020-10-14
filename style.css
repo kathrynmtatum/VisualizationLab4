@@ -1,0 +1,23 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+}
+
+h1 {
+  font: regular
+}
+
+.chart {
+  padding: 5px;
+}
+
+.tooltip{ 
+  background-color: white;
+  border-radius: 10px;
+  padding: 5px;
+  font-size: 8;
+}
+
+
